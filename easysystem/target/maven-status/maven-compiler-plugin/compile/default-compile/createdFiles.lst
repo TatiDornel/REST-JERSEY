@@ -1,0 +1,6 @@
+br\com\dornel\easysystem\dao\SystemDAO.class
+br\com\dornel\easysystem\resource\SystemResource.class
+br\com\dornel\easysystem\dao\ISystemDAO.class
+br\com\dornel\easysystem\entity\System.class
+br\com\dornel\easysystem\util\JPAUtil.class
+br\com\dornel\easysystem\resource\SystemResource$1.class
